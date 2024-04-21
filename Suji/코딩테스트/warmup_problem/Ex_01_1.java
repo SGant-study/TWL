@@ -1,3 +1,5 @@
+package warmup_problem;
+
 import java.util.Arrays;
 
 public class Ex_01_1 { // 원본 배열의 상태를 유지하면서 원본 배열로부터 새로운 배열을 복사

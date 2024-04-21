@@ -1,3 +1,5 @@
+package warmup_problem;
+
 import java.util.Arrays;
 
 public class Ex_01 { // 배열 정렬하기

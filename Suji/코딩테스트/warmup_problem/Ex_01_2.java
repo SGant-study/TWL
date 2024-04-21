@@ -1,3 +1,5 @@
+package warmup_problem;
+
 import java.util.Arrays;
 
 public class Ex_01_2 { // 원본배열을 그대로 수정한 코드
